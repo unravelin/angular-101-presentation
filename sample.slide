@@ -21,7 +21,7 @@ Angular 101
 - `/patterns` has a collection of components that you can use
 - not everything is documented here, but more often than not, most UI elements thast exist in the dashboard today are components
 
-* next time (if there's any interest)
+* Next time (if there's any interest)
 
 - bindings and communicating between components
 - nested components
