@@ -28,3 +28,8 @@ Angular 101
 - transclusion
 - smart vs. dumb components
 - Services, Filters, Directives
+
+* Demo code
+
+- repo can be found here (https://github.com/unravelin/dashboard-service/tree/angular-101)
+- this branch is for demo purposes only, please don't branch off of this branch
